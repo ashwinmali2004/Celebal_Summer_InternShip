@@ -32,8 +32,6 @@ Celebal\_Summer\_InternShip/
 │   └── ... (project folders and source code)
 └── README.md
 
-```
-
 ## Skills & Tools Used
 
 - Python, Pandas, NumPy, Scikit-learn  
