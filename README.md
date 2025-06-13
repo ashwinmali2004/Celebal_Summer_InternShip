@@ -24,7 +24,7 @@ Celebal\_Summer\_InternShip/
 │   └── ... (notebooks, PDFs, or scripts)
 ├── Assignment_2/
 │   └── ... (notebooks, PDFs, or scripts)
-├── Assignment2_3/
+├── Assignment_3/
 │   └── ... (notebooks, PDFs, or scripts)
 ├── Assignment_4/
 │   └── ... (notebooks, PDFs, or scripts)
