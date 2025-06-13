@@ -19,8 +19,6 @@ The internship at Celebal Technologies focuses on real-world applications of **D
 
 ## Repository Structure
 
-```
-
 Celebal\_Summer\_InternShip/
 ├── Assignment_1/
 │   └── ... (notebooks, PDFs, or scripts)
