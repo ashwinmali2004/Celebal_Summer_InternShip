@@ -61,5 +61,5 @@ l1.addNode(40)
 
 print("Initial list:")
 l1.printList()
-l1.deleteNthNode(3)
+l1.deleteNthNode(4)
 l1.printList()
