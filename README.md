@@ -1,7 +1,3 @@
-# Celebal_Summer_InternShip
----
-
-```markdown
 # Celebal Summer Internship - Data Science
 
 Welcome to my repository for the **Celebal Technologies Summer Internship** in **Data Science**. This repository contains assignments, projects, and learning resources I worked on during my internship journey at Celebal.
@@ -10,27 +6,33 @@ Welcome to my repository for the **Celebal Technologies Summer Internship** in *
 
 The internship at Celebal Technologies focuses on real-world applications of **Data Science** including:
 
--  Data Preprocessing & Exploration  
--  Visualization Techniques  
--  Machine Learning Algorithms  
--  Text Mining & Topic Modeling (e.g., LDA, K-Means)  
--  Model Evaluation and Tuning  
--  Working on real datasets and domain-specific problems
+- Data Preprocessing & Exploration  
+- Visualization Techniques  
+- Machine Learning Algorithms  
+- Text Mining & Topic Modeling (e.g., LDA, K-Means)  
+- Model Evaluation and Tuning  
+- Working on real datasets and domain-specific problems
 
 ## Repository Structure
 
-Celebal\_Summer\_InternShip/
+Celebal_Summer_InternShip/
 ├── Assignment_1/
-│   └── ... (notebooks, PDFs, or scripts)
+│ └── ... (notebooks, PDFs, or scripts)
+
 ├── Assignment_2/
-│   └── ... (notebooks, PDFs, or scripts)
+│ └── ... (notebooks, PDFs, or scripts)
+
 ├── Assignment_3/
-│   └── ... (notebooks, PDFs, or scripts)
+│ └── ... (notebooks, PDFs, or scripts)
+
 ├── Assignment_4/
-│   └── ... (notebooks, PDFs, or scripts)
+│ └── ... (notebooks, PDFs, or scripts)
+
 ├── Projects/
-│   └── ... (project folders and source code)
+│ └── ... (project folders and source code)
+
 └── README.md
+
 
 ## Skills & Tools Used
 
@@ -43,13 +45,9 @@ Celebal\_Summer\_InternShip/
 ## 🔗 Connect with Me
 
 LinkedIn: [Ashwin Mali](https://www.linkedin.com/in/ashwinmali04/)  
-Email: (Ashwinmali2004@gmail.com)  
+Email: Ashwinmali2004@gmail.com  
 
 ---
 
 **Thank you for visiting!**  
 This repository serves as a showcase of my learning journey and practical implementations during the internship.
-
-```
-
----
